@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616785281522",
+    "project_id": "agreviewph",
+    "storage_bucket": "agreviewph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616785281522:android:3a3a64d9ed57f0e699eb6b",
+        "android_client_info": {
+          "package_name": "com.agreviewph.onlinequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616785281522-od83ul4b0dl38dkc7hbgfp231vbok8e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agreviewph.onlinequizapp",
+            "certificate_hash": "ed09d006e45b2248c27bf7463a19e9efaffae93e"
+          }
+        },
+        {
+          "client_id": "616785281522-cctblpaj72f1po83hn4u5hamf2cc9f29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxroY5ZzbNx9pZkSCEbM_r5NfRSyQCCB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616785281522-cctblpaj72f1po83hn4u5hamf2cc9f29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
